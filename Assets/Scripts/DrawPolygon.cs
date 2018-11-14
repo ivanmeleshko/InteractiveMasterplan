@@ -8,10 +8,10 @@ public class DrawPolygon : MonoBehaviour {
 
     void Start()
     {
-        c = GetComponent<Canvas>();
-        Vector2[] vertices = new Vector2[] { new Vector2(0, 0), new Vector2(100, 100), new Vector2(200, 0) };
-        ushort[] triangles = new ushort[] { 0, 1, 2 };
-        DrawPolygon2D(vertices, triangles, Color.cyan);
+		//c = GetComponent<Canvas>();
+		//Vector2[] vertices = new Vector2[] { new Vector2(0, 0), new Vector2(100, 100), new Vector2(200, 0) };
+		//ushort[] triangles = new ushort[] { 0, 1, 2 };
+		//DrawPolygon2D(vertices, triangles, Color.cyan);
     }
 
 
