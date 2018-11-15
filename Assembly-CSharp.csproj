@@ -59,9 +59,11 @@
      <Compile Include="Assets\Scripts\DrawPolygon.cs" />
      <Compile Include="Assets\Scripts\MenuOpener.cs" />
      <Compile Include="Assets\Scripts\Move.cs" />
+     <Compile Include="Assets\Scripts\PanelSizeFitter.cs" />
      <Compile Include="Assets\Scripts\PanZoom.cs" />
      <Compile Include="Assets\Scripts\Rotate.cs" />
      <Compile Include="Assets\Scripts\Rotation.cs" />
+     <Compile Include="Assets\Scripts\SizeAdapter.cs" />
      <Compile Include="Assets\Scripts\Zoom.cs" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>D:/PersonalIM/Unity/InteractiveMasterplan/Code/InteractiveMasterplan/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>

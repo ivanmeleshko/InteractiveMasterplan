@@ -2,11 +2,6 @@ D:\PersonalIM\Unity\InteractiveMasterplan\Code\InteractiveMasterplan\Temp\bin\De
 D:\PersonalIM\Unity\InteractiveMasterplan\Code\InteractiveMasterplan\Temp\bin\Debug\Assembly-CSharp.pdb
 D:\PersonalIM\Unity\InteractiveMasterplan\Code\InteractiveMasterplan\Temp\bin\Debug\Boo.Lang.dll
 D:\PersonalIM\Unity\InteractiveMasterplan\Code\InteractiveMasterplan\Temp\bin\Debug\mscorlib.dll
-D:\PersonalIM\Unity\InteractiveMasterplan\Code\InteractiveMasterplan\Temp\bin\Debug\System.Core.dll
-D:\PersonalIM\Unity\InteractiveMasterplan\Code\InteractiveMasterplan\Temp\bin\Debug\System.dll
-D:\PersonalIM\Unity\InteractiveMasterplan\Code\InteractiveMasterplan\Temp\bin\Debug\System.Runtime.Serialization.dll
-D:\PersonalIM\Unity\InteractiveMasterplan\Code\InteractiveMasterplan\Temp\bin\Debug\System.Xml.dll
-D:\PersonalIM\Unity\InteractiveMasterplan\Code\InteractiveMasterplan\Temp\bin\Debug\System.Xml.Linq.dll
 D:\PersonalIM\Unity\InteractiveMasterplan\Code\InteractiveMasterplan\Temp\bin\Debug\Unity.Locator.dll
 D:\PersonalIM\Unity\InteractiveMasterplan\Code\InteractiveMasterplan\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
 D:\PersonalIM\Unity\InteractiveMasterplan\Code\InteractiveMasterplan\Temp\bin\Debug\Unity.TextMeshPro.dll
@@ -163,8 +158,6 @@ D:\PersonalIM\Unity\InteractiveMasterplan\Code\InteractiveMasterplan\Temp\bin\De
 D:\PersonalIM\Unity\InteractiveMasterplan\Code\InteractiveMasterplan\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
 D:\PersonalIM\Unity\InteractiveMasterplan\Code\InteractiveMasterplan\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
 D:\PersonalIM\Unity\InteractiveMasterplan\Code\InteractiveMasterplan\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
-D:\PersonalIM\Unity\InteractiveMasterplan\Code\InteractiveMasterplan\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-D:\PersonalIM\Unity\InteractiveMasterplan\Code\InteractiveMasterplan\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
-D:\PersonalIM\Unity\InteractiveMasterplan\Code\InteractiveMasterplan\obj\Debug\Assembly-CSharp.csproj.CopyComplete
 D:\PersonalIM\Unity\InteractiveMasterplan\Code\InteractiveMasterplan\obj\Debug\Assembly-CSharp.dll
 D:\PersonalIM\Unity\InteractiveMasterplan\Code\InteractiveMasterplan\obj\Debug\Assembly-CSharp.pdb
+D:\PersonalIM\Unity\InteractiveMasterplan\Code\InteractiveMasterplan\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache

@@ -222,13 +222,16 @@ public class CameraHandler : MonoBehaviour
                 xAngle = xAngleTemp + (SecondPoint.x - FirstPoint.x) * 180 / Screen.width;
                 yAngle = yAngleTemp + (SecondPoint.y - FirstPoint.y) * 90 / Screen.height;
                 //this.transform.rotation = Quaternion.Euler(yAngle, xAngle, 0.0f);
-                if (xAngle > 0)
-                    transform.Rotate(0, 15, 0);
-                else if (xAngle < 0)
-                    transform.Rotate(0, -15, 0);
+				if (xAngle > 0)
+				{
+					transform.Rotate(0, 15, 0);
+				}
+				else if (xAngle < 0)
+				{
+					transform.Rotate(0, -15, 0);
+				}
             }
         }
-
     }
 
 
